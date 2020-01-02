@@ -9,6 +9,8 @@ fraction : 분수
 numerator : 분자
 denominator : 분모
 
+divmod(dividend, divisor)
+
 '''
 
 
@@ -22,12 +24,12 @@ print('몫: ', c, '나머지: ', d)
 ## 13-2
 a = input('4 자리 정수를 입력하세요: ')
 while len(a) != 4:
-    a = input('4 자리 정수를 입력하세요: ')
+    a = input('자리수가 틀렸습니다. 4 자리 정수를 입력하세요: ')
     if len(a) ==4:
         break
 result = int(a[0]) + int(a[1]) + int(a[2]) + int(a[3])
 print(result)
-number = int(input('네자리 정수를 입력하세요'))
+
 
 
 
