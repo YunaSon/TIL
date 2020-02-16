@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//조건연산자에서 문자열 반환 부분 계속 에러 발생..
+
 int main(void)
 {
     double w, h, hm;
