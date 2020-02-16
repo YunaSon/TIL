@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//문자열 반환 부분 실패...
+
 int main(void)
 {
     double w, h, hm;
