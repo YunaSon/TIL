@@ -15,12 +15,11 @@
 ### 나의 일정
 <img src=https://blogfiles.pstatic.net/MjAyMDAyMDlfMTUx/MDAxNTgxMjQ5MDg2Mjk0.zLVgN2c9M9gflH2qK5XL-LSzqkEHvu95AGzGi5FMRV4g.jurYNbLQ-lv1DFv-KqRU0lXxERw5q6rvoditzbu_dCog.PNG.reisei11/image.png>
 
-------------------------------------------------------------------------------------------------------------------------
+
 
 ## 혼공단3기 intro
 https://blog.naver.com/reisei11/221789471848
 
-------------------------------------------------------------------------------------------------------------------------
 
 ## facebook link
 https://web.facebook.com/groups/301584907425640/
