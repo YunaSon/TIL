@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2020-03-17T06:48:51Z</date>
+	<key>Application Version</key><string>1.0.3.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>8AD3550C700C1D95</string>
+	<key>Tracks</key>
+	<dict>
+		<key>123</key>
+		<dict>
+			<key>Track ID</key><integer>123</integer>
+			<key>Name</key><string>Bb</string>
+			<key>Kind</key><string>WAV 오디오 파일</string>
+			<key>Size</key><integer>88244</integer>
+			<key>Total Time</key><integer>1000</integer>
+			<key>Date Modified</key><date>2017-07-25T14:50:30Z</date>
+			<key>Date Added</key><date>2020-02-10T09:40:36Z</date>
+			<key>Bit Rate</key><integer>705</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3667304196</integer>
+			<key>Play Date UTC</key><date>2020-03-17T06:36:36Z</date>
+			<key>Persistent ID</key><string>433317A5128D8C8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Bb.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>125</key>
+		<dict>
+			<key>Track ID</key><integer>125</integer>
+			<key>Name</key><string>C5</string>
+			<key>Kind</key><string>WAV 오디오 파일</string>
+			<key>Size</key><integer>88244</integer>
+			<key>Total Time</key><integer>1000</integer>
+			<key>Date Modified</key><date>2017-07-25T14:50:30Z</date>
+			<key>Date Added</key><date>2020-02-10T09:40:50Z</date>
+			<key>Bit Rate</key><integer>705</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3667304201</integer>
+			<key>Play Date UTC</key><date>2020-03-17T06:36:41Z</date>
+			<key>Persistent ID</key><string>95D5D761CD3F6DCF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/C5.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>127</key>
+		<dict>
+			<key>Track ID</key><integer>127</integer>
+			<key>Name</key><string>C4</string>
+			<key>Kind</key><string>WAV 오디오 파일</string>
+			<key>Size</key><integer>88244</integer>
+			<key>Total Time</key><integer>1000</integer>
+			<key>Date Modified</key><date>2017-07-25T14:50:30Z</date>
+			<key>Date Added</key><date>2020-02-10T09:40:51Z</date>
+			<key>Bit Rate</key><integer>705</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3667304199</integer>
+			<key>Play Date UTC</key><date>2020-03-17T06:36:39Z</date>
+			<key>Persistent ID</key><string>6BDB7C96F441900E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/C4.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>129</key>
+		<dict>
+			<key>Track ID</key><integer>129</integer>
+			<key>Name</key><string>Eb</string>
+			<key>Kind</key><string>WAV 오디오 파일</string>
+			<key>Size</key><integer>88244</integer>
+			<key>Total Time</key><integer>1000</integer>
+			<key>Date Modified</key><date>2017-07-25T14:50:30Z</date>
+			<key>Date Added</key><date>2020-02-10T09:40:53Z</date>
+			<key>Bit Rate</key><integer>705</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3667304203</integer>
+			<key>Play Date UTC</key><date>2020-03-17T06:36:43Z</date>
+			<key>Persistent ID</key><string>C1C3FF614D1D8708</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Eb.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>131</key>
+		<dict>
+			<key>Track ID</key><integer>131</integer>
+			<key>Name</key><string>G</string>
+			<key>Kind</key><string>WAV 오디오 파일</string>
+			<key>Size</key><integer>88244</integer>
+			<key>Total Time</key><integer>1000</integer>
+			<key>Date Modified</key><date>2017-07-25T14:50:30Z</date>
+			<key>Date Added</key><date>2020-02-10T09:41:13Z</date>
+			<key>Bit Rate</key><integer>705</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3667304206</integer>
+			<key>Play Date UTC</key><date>2020-03-17T06:36:46Z</date>
+			<key>Persistent ID</key><string>B5391AAAF7378B98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/G.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>133</key>
+		<dict>
+			<key>Track ID</key><integer>133</integer>
+			<key>Name</key><string>sin</string>
+			<key>Kind</key><string>WAV 오디오 파일</string>
+			<key>Size</key><integer>441044</integer>
+			<key>Total Time</key><integer>5000</integer>
+			<key>Date Modified</key><date>2017-07-25T14:50:30Z</date>
+			<key>Date Added</key><date>2020-02-10T09:41:14Z</date>
+			<key>Bit Rate</key><integer>705</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3667304212</integer>
+			<key>Play Date UTC</key><date>2020-03-17T06:36:52Z</date>
+			<key>Persistent ID</key><string>5097E84E68C07693</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/sin.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>135</key>
+		<dict>
+			<key>Track ID</key><integer>135</integer>
+			<key>Name</key><string>sin220</string>
+			<key>Kind</key><string>WAV 오디오 파일</string>
+			<key>Size</key><integer>441044</integer>
+			<key>Total Time</key><integer>5000</integer>
+			<key>Date Modified</key><date>2017-07-25T14:50:30Z</date>
+			<key>Date Added</key><date>2020-02-10T09:41:21Z</date>
+			<key>Bit Rate</key><integer>705</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3667304217</integer>
+			<key>Play Date UTC</key><date>2020-03-17T06:36:57Z</date>
+			<key>Persistent ID</key><string>1CB5F96B861B1070</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/sin220.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>137</key>
+		<dict>
+			<key>Track ID</key><integer>137</integer>
+			<key>Name</key><string>F</string>
+			<key>Kind</key><string>WAV 오디오 파일</string>
+			<key>Size</key><integer>88244</integer>
+			<key>Total Time</key><integer>1000</integer>
+			<key>Date Modified</key><date>2020-02-10T10:19:56Z</date>
+			<key>Date Added</key><date>2020-02-10T10:20:55Z</date>
+			<key>Bit Rate</key><integer>705</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3667304204</integer>
+			<key>Play Date UTC</key><date>2020-03-17T06:36:44Z</date>
+			<key>Persistent ID</key><string>E4C31667C927A145</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/F.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>139</key>
+		<dict>
+			<key>Track ID</key><integer>139</integer>
+			<key>Name</key><string>VVE1 House Loops 019</string>
+			<key>Kind</key><string>WAV 오디오 파일</string>
+			<key>Size</key><integer>1323536</integer>
+			<key>Total Time</key><integer>7500</integer>
+			<key>Date Modified</key><date>2020-02-20T12:35:06Z</date>
+			<key>Date Added</key><date>2020-02-20T12:35:08Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3667304226</integer>
+			<key>Play Date UTC</key><date>2020-03-17T06:37:06Z</date>
+			<key>Persistent ID</key><string>CF5F8B52559748A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/VVE1%20House%20Loops%20019.wav</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>466</key>
+		<dict>
+			<key>Track ID</key><integer>466</integer>
+			<key>Name</key><string>그럼</string>
+			<key>Artist</key><string>염따</string>
+			<key>Album Artist</key><string>염따</string>
+			<key>Album</key><string>살아숨셔</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7682620</integer>
+			<key>Total Time</key><integer>216820</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2020-03-17T06:40:02Z</date>
+			<key>Date Added</key><date>2020-03-17T06:39:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-02-18T08:00:00Z</date>
+			<key>Normalization</key><integer>5115</integer>
+			<key>Sort Album</key><string>살아숨셔</string>
+			<key>Sort Artist</key><string>염따</string>
+			<key>Sort Name</key><string>그럼</string>
+			<key>Persistent ID</key><string>915DA794A4FC28D8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Apple%20Music/%EC%97%BC%EB%94%B0/%EC%82%B4%EC%95%84%EC%88%A8%EC%85%94/02%20%EA%B7%B8%EB%9F%BC.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>557</key>
+		<dict>
+			<key>Track ID</key><integer>557</integer>
+			<key>Name</key><string>하이파이브</string>
+			<key>Artist</key><string>염따</string>
+			<key>Album Artist</key><string>염따</string>
+			<key>Album</key><string>살아숨셔</string>
+			<key>Genre</key><string>K-Pop</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>6910168</integer>
+			<key>Total Time</key><integer>193402</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2020-03-17T06:40:28Z</date>
+			<key>Date Added</key><date>2020-03-17T06:40:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2016-02-18T08:00:00Z</date>
+			<key>Normalization</key><integer>6865</integer>
+			<key>Sort Album</key><string>살아숨셔</string>
+			<key>Sort Artist</key><string>염따</string>
+			<key>Sort Name</key><string>하이파이브</string>
+			<key>Persistent ID</key><string>910CC9E296CED25F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Apple%20Music/%EC%97%BC%EB%94%B0/%EC%82%B4%EC%95%84%EC%88%A8%EC%85%94/01%20%ED%95%98%EC%9D%B4%ED%8C%8C%EC%9D%B4%EB%B8%8C.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>789</key>
+		<dict>
+			<key>Track ID</key><integer>789</integer>
+			<key>Name</key><string>더 높이</string>
+			<key>Artist</key><string>염따</string>
+			<key>Album Artist</key><string>염따</string>
+			<key>Album</key><string>살아숨셔 2</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>4639411</integer>
+			<key>Total Time</key><integer>123857</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-03-17T06:41:45Z</date>
+			<key>Date Added</key><date>2020-03-17T06:41:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-01-09T08:00:00Z</date>
+			<key>Normalization</key><integer>3627</integer>
+			<key>Sort Album</key><string>살아숨셔 2</string>
+			<key>Sort Artist</key><string>염따</string>
+			<key>Sort Name</key><string>더 높이</string>
+			<key>Persistent ID</key><string>E3028089777905B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Apple%20Music/%EC%97%BC%EB%94%B0/%EC%82%B4%EC%95%84%EC%88%A8%EC%85%94%202/01%20%EB%8D%94%20%EB%86%92%EC%9D%B4.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1091</key>
+		<dict>
+			<key>Track ID</key><integer>1091</integer>
+			<key>Name</key><string>METEOR</string>
+			<key>Artist</key><string>창모</string>
+			<key>Album Artist</key><string>창모</string>
+			<key>Album</key><string>Boyhood</string>
+			<key>Genre</key><string>힙합/랩</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>7041244</integer>
+			<key>Total Time</key><integer>197097</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2020-03-17T06:44:05Z</date>
+			<key>Date Added</key><date>2020-03-17T06:44:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-11-30T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Boyhood</string>
+			<key>Sort Artist</key><string>창모</string>
+			<key>Sort Name</key><string>METEOR</string>
+			<key>Persistent ID</key><string>F8A76BD8C003E785</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>4748</key>
+		<dict>
+			<key>Track ID</key><integer>4748</integer>
+			<key>Name</key><string>idc</string>
+			<key>Artist</key><string>renforshort</string>
+			<key>Album Artist</key><string>renforshort</string>
+			<key>Composer</key><string>Kellen Pomeranz, Lauren Isenberg &#38; Jesse Finkelstein</string>
+			<key>Album</key><string>teenage angst EP</string>
+			<key>Genre</key><string>팝</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>5636661</integer>
+			<key>Total Time</key><integer>153960</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-17T06:45:29Z</date>
+			<key>Date Added</key><date>2020-03-17T06:45:21Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-03-13T07:00:00Z</date>
+			<key>Normalization</key><integer>5649</integer>
+			<key>Sort Album</key><string>teenage angst EP</string>
+			<key>Sort Artist</key><string>renforshort</string>
+			<key>Sort Name</key><string>idc</string>
+			<key>Persistent ID</key><string>447C8F8F546C8D21</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Apple%20Music/renforshort/teenage%20angst%20EP/01%20idc.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4875</key>
+		<dict>
+			<key>Track ID</key><integer>4875</integer>
+			<key>Name</key><string>i drive me mad</string>
+			<key>Artist</key><string>renforshort</string>
+			<key>Album Artist</key><string>renforshort</string>
+			<key>Composer</key><string>Jeff Hazin, Lauren Isenberg, Kellen Pomeranz &#38; Jesse Finkelstein</string>
+			<key>Album</key><string>teenage angst EP</string>
+			<key>Genre</key><string>팝</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>6347647</integer>
+			<key>Total Time</key><integer>177181</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-17T06:46:08Z</date>
+			<key>Date Added</key><date>2020-03-17T06:46:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-03-13T07:00:00Z</date>
+			<key>Normalization</key><integer>3669</integer>
+			<key>Sort Album</key><string>teenage angst EP</string>
+			<key>Sort Artist</key><string>renforshort</string>
+			<key>Sort Name</key><string>i drive me mad</string>
+			<key>Persistent ID</key><string>13C9155549687971</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Apple%20Music/renforshort/teenage%20angst%20EP/03%20i%20drive%20me%20mad.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4953</key>
+		<dict>
+			<key>Track ID</key><integer>4953</integer>
+			<key>Name</key><string>museum</string>
+			<key>Artist</key><string>renforshort</string>
+			<key>Album Artist</key><string>renforshort</string>
+			<key>Composer</key><string>Jeff Hazin, Matt Kahane, Lauren Isenberg &#38; David Charles Fischer</string>
+			<key>Album</key><string>teenage angst EP</string>
+			<key>Genre</key><string>팝</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>5669418</integer>
+			<key>Total Time</key><integer>157028</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-17T06:46:33Z</date>
+			<key>Date Added</key><date>2020-03-17T06:46:28Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-03-13T07:00:00Z</date>
+			<key>Normalization</key><integer>2288</integer>
+			<key>Sort Album</key><string>teenage angst EP</string>
+			<key>Sort Artist</key><string>renforshort</string>
+			<key>Sort Name</key><string>museum</string>
+			<key>Persistent ID</key><string>A381EB6658FD0034</string>
+			<key>Clean</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Apple Music</key><true/>
+			<key>Location</key><string>file:///Users/jooyoungson/Music/iTunes/iTunes%20Media/Apple%20Music/renforshort/teenage%20angst%20EP/05%20museum.m4p</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>5072</key>
+		<dict>
+			<key>Track ID</key><integer>5072</integer>
+			<key>Name</key><string>tastefully depressed</string>
+			<key>Artist</key><string>renforshort</string>
+			<key>Album Artist</key><string>renforshort</string>
+			<key>Composer</key><string>Jeff Hazin, Lauren Isenberg &#38; Matt Kahane</string>
+			<key>Album</key><string>teenage angst EP</string>
+			<key>Genre</key><string>팝</string>
+			<key>Kind</key><string>Apple Music AAC 오디오 파일</string>
+			<key>Size</key><integer>6844205</integer>
+			<key>Total Time</key><integer>185688</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>7</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2020-03-17T06:47:16Z</date>
+			<key>Date Added</key><date>2020-03-17T06:47:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-03-13T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>teenage angst EP</string>
+			<key>Sort Artist</key><string>renforshort</string>
+			<key>Sort Name</key><string>tastefully depressed</string>
+			<key>Persistent ID</key><string>9350EDDBCDE9C97B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>보관함</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>64</integer>
+			<key>Playlist Persistent ID</key><string>0000000000000005</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>466</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5072</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>다운로드됨</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>151</integer>
+			<key>Playlist Persistent ID</key><string>1AF87AB47683E6EC</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>466</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4953</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>음악</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>167</integer>
+			<key>Playlist Persistent ID</key><string>329A39FE93C5A582</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>123</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>125</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>127</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>466</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>557</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>789</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1091</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4875</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4953</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5072</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
