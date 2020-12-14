@@ -29,5 +29,5 @@ Tensorflow Hub는 텐서플로우의 머신러닝 라이브러리중 하나로 p
 제가 추가하려던 방식은 two-stage detector 방식인 Faster R-CNN을 사용하여 이미지를 training시키고 test와 validation을 하고 싶었습니다만, 데이터처리와 Layer에 계속 실패하여 너무 아쉬었습니다. 
 
 
-## 결과 파일
-prography_5th_dl/prography_deep.ipynb
+## 결과 Source code
+https://github.com/YunaSon/TIL/blob/master/Archive_2019/prography_5th_dl/prography_deep.ipynb
