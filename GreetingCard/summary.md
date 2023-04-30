@@ -13,8 +13,19 @@
 
 ### Learn more
 Vocabulary for Android Basics in Kotlin
+https://developer.android.com/courses/android-basics-kotlin/android-basics-kotlin-vocab
+
 Meet Android Studio
+https://developer.android.com/studio/intro?hl=en
+
 Projects overview
+https://developer.android.com/studio/projects?hl=en
+
 Create a project
+https://developer.android.com/studio/projects/create-project?hl=en
+
 Add code from a template
+https://developer.android.com/studio/projects/templates?hl=en
+
 Jetpack Compose
+https://developer.android.com/jetpack/compose?hl=en
