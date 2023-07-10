@@ -11,24 +11,22 @@ fun sendPayment(money:Money, message:String =""){
 fun sum(x:Int, y:Int) = x + y
 
 fun converToDollor(moeny:Money): Money {
-    return when (money.currency){
+    when (money.currency){
         "$" -> return  money
         "EUR" -> return Money(money.amount * BigDecimal(1.10), "$")
         else -> throw IllegalArgumentException("Not the currency you are interested in!")
     }
 }
 
+fun BigDecimal.percent(percentage: Int) = this.multiply(java.math.BigDecimal(percentage)).divide(BigDecimal(1000))
+
+fun Int.percentOf(money:Money) = money.amount.multiply(BigDecimal(this)).divide(BigDecimal(100))
+
 // Type inference
 fun main(args: Array<String>){
     val tickets = Money(100, "$")
-    val popcorn = tickets.copy(500, "EUR")
+    val popcorn = tickets.copy(100.bd, "$")
 
-    //function, parameter
-    sendPayment(message="Good lock", money =tickets)
-
-    if (tickets != popcorn){
-        println("They are different!")
-    }
+    val costs = tickets + popcorn
 
 }
-
